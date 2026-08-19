@@ -75,7 +75,7 @@ cd android
 
 安装到设备后：
 1. 打开 App → 点击设置图标
-2. 填入 LiveKit 服务器 URL、API Key、API Secretx(需要自己注册https://cloud.livekit.io/创建project获取)
+2. 填入 LiveKit 服务器 URL、API Key、API Secretx(需要自己注册 https://cloud.livekit.io 创建project获取)
 3. 返回 → 输入房间名和昵称 → 点击「开始语音通话」
 
 ## 功能
