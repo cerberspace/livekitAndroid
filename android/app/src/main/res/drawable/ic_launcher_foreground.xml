@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Voice waveform icon -->
+    <group android:translateX="27" android:translateY="27">
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M9,27 L9,27 M9,20 L9,34 M18,14 L18,40 M27,8 L27,46 M36,14 L36,40 M45,20 L45,34 M54,27 L54,27"
+            android:strokeColor="#00E5FF"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"/>
+        <path
+            android:fillColor="#B026FF"
+            android:pathData="M9,24 L9,30 M18,18 L18,36 M27,12 L27,42 M36,18 L36,36 M45,24 L45,30"
+            android:strokeColor="#B026FF"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"/>
+    </group>
+</vector>

@@ -1,0 +1,25 @@
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+*.apk
+*.aab
+
+# Python
+agent/.venv/
+agent/__pycache__/
+*.pyc
+agent/.env
+
+# Design prototype
+design-prototype/node_modules/
+design-prototype/dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
